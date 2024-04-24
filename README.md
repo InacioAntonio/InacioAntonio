@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Inácio 🤠
 
 <!--
 **InacioAntonio/InacioAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InacioAntonio&theme=dracula" alt="InacioAntonio"/></p>
+
+ <div>
+  <a href="https://github.com/InacioAntonio">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=InacioAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InacioAntonio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+ 
+![Snake animation](https://github.com/InacioAntonio/InacioAntonio/blob/output/github-contribution-grid-snake.svg)
